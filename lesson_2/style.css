@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+  background: #f9eef9;
+}
+div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+a {
+  color: rgb(61, 61, 236);
+  text-decoration: none;
+
+  &:hover {
+    color: rgb(130, 130, 255);
+    cursor: pointer;
+  }
+}
