@@ -32,6 +32,12 @@ _[⌨️ Lesson 2: JavaScript](#)_
     1. Visual Studio Code
     2. NodeJs
 
+## Quick Start
+
+    git clone https://github.com/yanisapths/web_dev_course.git
+    cd web_dev_course/lesson_2
+    git checkout template
+
 ## JavaScript in Browers
 
     mkdir lesson_2 && cd lesson_2
